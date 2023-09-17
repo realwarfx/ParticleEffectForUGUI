@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 using Object = UnityEngine.Object;
-
+ 
 namespace Coffee.UIParticleExtensions
 {
     public static class Vector3Extensions
